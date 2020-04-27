@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Examen Android</string>
+    <string name="error_message">El resultado tiene uno o mas errores.</string>
+    <string name="success_message">El resultado fue obtenido exitosamente.</string>
+    <string name="empty_list">La lista de estaciones esta vacia</string>
+    <string name="stationLabel">Estacion: </string>
+    <string name="addressLabel">Direccion: </string>
+    <string name="availableLabel"> disponibles</string>
+    <string name="availableSlotLabel">Espacios disponibles: </string>
+    <string name="nearbyStationList"> estaciones cercanas</string>
+    <string name="applyFilterLabel">Aplicar filtro</string>
+    <string name="filterByLabel">Filtar por:</string>
+    <string name="distanceLabel">Distancia</string>
+    <string name="stationNumberLabel">Numero de estacion</string>
+    <string name="minorDistanceLabel">Menor distancia</string>
+    <string name="availableBikesLabel">Bicicletas disponibles</string>
+    <string name="availableSlotsLabel">Espacios disponibles</string>
+    <string name="orderByLabel">Ordenar por:</string>
+</resources>

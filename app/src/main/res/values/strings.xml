@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Android Exam</string>
+    <string name="error_message">Result has one or more errors</string>
+    <string name="success_message">Result was parsed into model successful</string>
+    <string name="empty_list">Station List is empty.</string>
+    <string name="stationLabel">Station: </string>
+    <string name="addressLabel">Address: </string>
+    <string name="availableLabel"> available</string>
+    <string name="availableSlotLabel">available slots: </string>
+    <string name="nearbyStationList"> nearby stations</string>
+    <string name="orderByLabel">Order by:</string>
+    <string name="availableSlotsLabel">Available slots</string>
+    <string name="availableBikesLabel">Available bikes</string>
+    <string name="minorDistanceLabel">Minor distance</string>
+    <string name="stationNumberLabel">Station number</string>
+    <string name="distanceLabel">Distance</string>
+    <string name="filterByLabel">Filter by:</string>
+    <string name="applyFilterLabel">Apply filter</string>
+</resources>
